@@ -1,7 +1,7 @@
 # ToDo
-- [] Add i18n
-- [] Add form to send an email
-- ...
+- [ ] Add i18n
+- [ ] Add form to send an email
+- more to come
 
 # Nuxt Minimal Starter
 
