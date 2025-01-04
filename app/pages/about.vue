@@ -9,7 +9,8 @@
 
 <script setup>
 // definePageMeta({
-//     layout: "another"
+//     layout: "another",
+//     colorMode: "light",
 // })
 
 // function enableCustomLayout () {
