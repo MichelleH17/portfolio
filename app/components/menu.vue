@@ -20,6 +20,6 @@
 
 <style lang="postcss" scoped>
 .link {
-  @apply p-1 hover:bg-green-100
+  @apply hover:bg-green-100 dark:hover:bg-green-300 px-2 py-1 hover:dark:text-gray-800
 }
 </style>
