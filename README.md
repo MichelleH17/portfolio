@@ -1,3 +1,8 @@
+# ToDo
+- [] Add i18n
+- [] Add form to send an email
+- ...
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
