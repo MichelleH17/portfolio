@@ -1,6 +1,6 @@
 <template>
   <nav class="font-mono">
-    <ul class="flex space-x-6">
+    <ul class="flex space-x-4">
       <li>
         <NuxtLink to="/" class="link">Main</NuxtLink>
       </li>
@@ -9,6 +9,9 @@
       </li>
       <li>
         <NuxtLink to="/projects" class="link">Projects</NuxtLink>
+      </li>
+      <li>
+        <NuxtLink to="/blog" class="link">Blog</NuxtLink>
       </li>
     </ul>
   </nav>

@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto max-w-2xl">
     <header class="flex justify-between items-center mt-5">
-      <div class="flex items-center space-x-12">
+      <div class="flex items-center space-x-8">
         <div>
           <NuxtLink to="/" class="text-xl font-semibold hover:bg-green-100 dark:hover:bg-green-300 px-2 py-1 hover:dark:text-gray-800">Michaela Havlíková</NuxtLink>
         </div>
